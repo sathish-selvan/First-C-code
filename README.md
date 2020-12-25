@@ -1,3 +1,3 @@
-# First-C-code
+# First-C#-code
 
 Guess a number
